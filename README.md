@@ -1,6 +1,6 @@
-<h1>Adam Asma Oynu</h1>
+<h1>Hangman Game</h1>
 
-<p>Html,Css,Javascript,Adam,Asmaca,Oynu</p>
+<p>Hangman Game with HTML Css Javascript</p>
 
 
 
